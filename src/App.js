@@ -1,9 +1,11 @@
-import React, {Component} from 'react';
-import {CardList} from './components/card-list/card-list.component.jsx';
+// import React, {Component} from 'react';
+// import {CardList} from './components/card-list/card-list.component.jsx';
 // import logo from './logo.svg';
+import React from 'react';
+import CardList from './components/card-list/card-list.component';
 import './App.css';
 
-class App extends Component {
+class App extends React.Component {
    constructor (props) {
      super(props);
      this.state = {
