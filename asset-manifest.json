@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//:HologramNunchuk.github.io/monster-rolodex/static/css/main.7d20886a.chunk.css",
+    "main.js": "/https//:HologramNunchuk.github.io/monster-rolodex/static/js/main.eadcd882.chunk.js",
+    "main.js.map": "/https//:HologramNunchuk.github.io/monster-rolodex/static/js/main.eadcd882.chunk.js.map",
+    "runtime-main.js": "/https//:HologramNunchuk.github.io/monster-rolodex/static/js/runtime-main.fdef39de.js",
+    "runtime-main.js.map": "/https//:HologramNunchuk.github.io/monster-rolodex/static/js/runtime-main.fdef39de.js.map",
+    "static/js/2.b42bebc0.chunk.js": "/https//:HologramNunchuk.github.io/monster-rolodex/static/js/2.b42bebc0.chunk.js",
+    "static/js/2.b42bebc0.chunk.js.map": "/https//:HologramNunchuk.github.io/monster-rolodex/static/js/2.b42bebc0.chunk.js.map",
+    "index.html": "/https//:HologramNunchuk.github.io/monster-rolodex/index.html",
+    "precache-manifest.27250be4cc1b836d8a01cdbdad5643e9.js": "/https//:HologramNunchuk.github.io/monster-rolodex/precache-manifest.27250be4cc1b836d8a01cdbdad5643e9.js",
+    "service-worker.js": "/https//:HologramNunchuk.github.io/monster-rolodex/service-worker.js",
+    "static/css/main.7d20886a.chunk.css.map": "/https//:HologramNunchuk.github.io/monster-rolodex/static/css/main.7d20886a.chunk.css.map",
+    "static/js/2.b42bebc0.chunk.js.LICENSE.txt": "/https//:HologramNunchuk.github.io/monster-rolodex/static/js/2.b42bebc0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdef39de.js",
+    "static/js/2.b42bebc0.chunk.js",
+    "static/css/main.7d20886a.chunk.css",
+    "static/js/main.eadcd882.chunk.js"
+  ]
+}
